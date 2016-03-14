@@ -1,3 +1,5 @@
+// freeCodeCamp Record Collection Challenge
+
 // Setup
 var collection = {
   2548: {
@@ -36,7 +38,7 @@ function update(id, prop, value) {
   } else if (value === "") {
     delete collection[id][prop];
   }
-  
+
   return collection;
 }
 

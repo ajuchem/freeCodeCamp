@@ -1,6 +1,3 @@
-## freeCodeCamp Record Collection Challenge
-
-
 ### Instructions
 
 You are given a JSON object representing (a small part of) your record collection. Each album is identified by a unique id number and has several properties. Not all albums have complete information.
